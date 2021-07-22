@@ -1,0 +1,84 @@
+/* google fonts link  */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+*{
+    font-family: 'Poppins', sans-serif;
+}
+.buy-now-button{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    
+}
+.buy-now-button:hover{
+    background: white;
+    color: #FF136F;
+    border: 1px solid black;
+    transition: 0.5s ease-in-out;
+    transform: rotate(15deg);
+ 
+}
+.banner-background{
+    background: #FEEAE9;
+    border: none;
+    border-radius: 20px !important;
+}
+.banner-title{
+    color: #1F1F1F;
+    font-size: 50px;
+    font-weight: 700;
+    padding:8px 0px ;
+}
+.price{
+padding:8px 0px ;
+color: #FF136F;
+font-size: 41px;
+}
+#watch{
+    border: none;
+    background-color: orange;
+    color: white;
+    font-size: 34px;
+}
+#watch img{
+width: 100px;
+}
+#bag{
+    border: none;
+    background-color: orchid;
+    color: white;
+    font-size: 34px;
+}
+#bag img{
+    width: 100px;
+}
+
+#shoes{
+    border: none;
+    background-color:#3F07F8;
+    color: white;
+    font-size: 34px;
+}
+#shoes img{
+    width: 100px;
+}
+#subscribe{
+    height: 300px;
+    background-color:#FFF2F1;
+}
+.submit-button{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+
+}
+.submit-button:hover{
+  background-color: white;
+    color: #FF136F;
+    
+
+}
